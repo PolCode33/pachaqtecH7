@@ -1,5 +1,6 @@
 from connection.conn import Conexion
 
+# CLASE CURSO - METODO PARA LISTA, ACTUALIZAR Y ELIMINAR
 class Curso:
     def __init__(self, nombre):
         self.nombre = nombre
